@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="POM.moovertest.Create_connections_Lightening"/>
+      <class name="POM.moovertest.Create_missing_Fileds"/>
+      <class name="POM.moovertest.Sync_Pick_and_Multi_picklist"/>
+      <class name="POM.moovertest.Property_setting_feature"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
