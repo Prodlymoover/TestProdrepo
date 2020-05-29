@@ -1,0 +1,45 @@
+Guid,AccountNumber,AccountSource,Active__c,AnnualRevenue,BillingCity,BillingCountry,BillingGeocodeAccuracy,BillingLatitude,BillingLongitude,BillingPostalCode,BillingState,BillingStreet,CleanStatus,CustomerPriority__c,Description,DunsNumber,Fax,Industry,Jigsaw,NaicsCode,NaicsDesc,Name,NumberOfEmployees,NumberofLocations__c,Ownership,Phone,Rating,SLAExpirationDate__c,SLASerialNumber__c,SLA__c,ShippingCity,ShippingCountry,ShippingGeocodeAccuracy,ShippingLatitude,ShippingLongitude,ShippingPostalCode,ShippingState,ShippingStreet,Sic,SicDesc,Site,TickerSymbol,Tradestyle,Type,UpsellOpportunity__c,Website,YearStarted
+0104b1ae-9ded-4fb2-b799-3cf54dafe2d6,CD439877,"#N/A",Yes,5.0E8,Chicago,"#N/A","#N/A","#N/A","#N/A","#N/A",IL,"2334 N. Michigan Avenue, Suite 1500
+Chicago, IL 60601, USA",Pending,High,"Chain of hotels and resorts across the US, UK, Eastern Europe, Japan, and SE Asia.","#N/A",(312) 596-1500,Hospitality,"#N/A","#N/A","#N/A",Grand Hotels & Resorts Ltd,5600,57.0,Public,(312) 596-1000,Warm,2020-10-28,5572,Gold,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","2334 N. Michigan Avenue, Suite 1500
+Chicago, IL 60601, USA",2268,"#N/A","#N/A",GHTL,"#N/A",Customer - Direct,Yes,www.grandhotels.com,"#N/A"
+071412fd-7f00-4eb4-8bb7-c5d96c4aa284,"#N/A","#N/A","#N/A","#N/A",San Francisco,US,"#N/A","#N/A","#N/A",94087,CA,The Landmark @ One Market,Pending,"#N/A","#N/A","#N/A",(415) 901-7002,"#N/A","#N/A","#N/A","#N/A",sForce,"#N/A","#N/A","#N/A",(415) 901-7000,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",www.sforce.com,"#N/A"
+2f344693-22fe-404f-946f-643e773efe3a,CC978213,"#N/A",Yes,3.0E7,Mountain View,"#N/A","#N/A","#N/A","#N/A","#N/A",CA,"345 Shoreline Park
+Mountain View, CA 94043
+USA",Pending,Low,Genomics company engaged in mapping and sequencing of the human genome and developing gene-based drugs,"#N/A",(650) 867-9895,Biotechnology,"#N/A","#N/A","#N/A",GenePoint,265,1.0,Private,(650) 867-3450,Cold,2020-10-28,7324,Bronze,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","345 Shoreline Park
+Mountain View, CA 94043
+USA",3712,"#N/A","#N/A","#N/A","#N/A",Customer - Channel,Yes,www.genepoint.com,"#N/A"
+306fbc0c-d9ce-4a97-990d-24fd24497fe7,CD451796,"#N/A",Yes,1.39E8,Austin,"#N/A","#N/A","#N/A","#N/A","#N/A",TX,"312 Constitution Place
+Austin, TX 78767
+USA",Pending,Medium,"Edge, founded in 1998, is a start-up based in Austin, TX. The company designs and manufactures a device to convert music from one digital format to another. Edge sells its product through retailers and its own website.","#N/A",(512) 757-9000,Electronics,"#N/A","#N/A","#N/A",Edge Communications,1000,2.0,Public,(512) 757-6000,Hot,2020-04-27,2657,Silver,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","312 Constitution Place
+Austin, TX 78767
+USA",6576,"#N/A","#N/A",EDGE,"#N/A",Customer - Direct,Maybe,http://edgecomm.com,"#N/A"
+52ac0ca7-e7d8-4f60-af7d-3ad8ba2e78bc,CD736025,"#N/A",Yes,"#N/A",Tucson,"#N/A","#N/A","#N/A","#N/A","#N/A",AZ,"888 N Euclid 
+Hallis Center, Room 501
+Tucson, AZ 85721
+United States",Pending,Medium,"Leading university in AZ offering undergraduate and graduate programs in arts and humanities, pure sciences, engineering, business, and medicine.","#N/A",(520) 773-9060,Education,"#N/A","#N/A","#N/A",University of Arizona,39000,3.0,Other,(520) 773-9050,Warm,2020-04-27,8350,Gold,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","888 N Euclid 
+Hallis Center, Room 501
+Tucson, AZ 85721
+United States",7321,"#N/A","#N/A","#N/A","#N/A",Customer - Direct,Yes,www.universityofarizona.com,"#N/A"
+66c5791c-b06c-4445-b29e-f9726a037f3c,CD656092,"#N/A","#N/A",3.5E8,Burlington,USA,"#N/A","#N/A","#N/A",27215,NC,525 S. Lexington Ave,Pending,"#N/A","#N/A","#N/A",(336) 222-8000,Apparel,"#N/A","#N/A","#N/A",Burlington Textiles Corp of America,9000,6.0,Public,(336) 222-7000,Warm,2020-04-27,5367,Silver,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",546732,"#N/A","#N/A",BTXT,"#N/A",Customer - Direct,Maybe,www.burlington.com,"#N/A"
+76e617ba-9d89-4e1d-a9fc-7e1229d59522,CC947211,"#N/A",Yes,9.5E8,Portland,"#N/A","#N/A","#N/A","#N/A","#N/A",OR,"620 SW 5th Avenue Suite 400
+Portland, Oregon 97204
+United States",Pending,Medium,Commerical logistics and transportation company.,"#N/A",(503) 421-7801,Transportation,"#N/A","#N/A","#N/A",Express Logistics and Transport,12300,150.0,Public,(503) 421-7800,Cold,2020-10-28,4724,Platinum,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","620 SW 5th Avenue Suite 400
+Portland, Oregon 97204
+United States",8742,"#N/A","#N/A",EXLT,"#N/A",Customer - Channel,Maybe,www.expressl&t.net,"#N/A"
+7a322d52-2b9b-49b3-8566-6abc7de6e058,CD355119-A,"#N/A",Yes,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",UK,"Kings Park, 17th Avenue, Team Valley Trading Estate,
+Gateshead, Tyne and Wear NE26 3HS
+United Kingdom",Pending,High,"#N/A","#N/A",+44 191 4956620,Energy,"#N/A","#N/A","#N/A","United Oil & Gas, UK",24000,34.0,Public,+44 191 4956203,"#N/A",2020-04-27,3479,Platinum,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","Kings Park, 17th Avenue, Team Valley Trading Estate,
+Gateshead, Tyne and Wear NE26 3HS
+United Kingdom",4437,"#N/A","#N/A",UOS,"#N/A",Customer - Direct,No,http://www.uos.com,"#N/A"
+9a2e24ae-5b15-4464-8b61-bfcaf50e924d,CD355118,"#N/A",Yes,5.6E9,New York,"#N/A","#N/A","#N/A","#N/A","#N/A",NY,"1301 Avenue of the Americas 
+New York, NY 10019
+USA",Pending,High,World's third largest oil and gas company.,"#N/A",(212) 842-5501,Energy,"#N/A","#N/A","#N/A",United Oil & Gas Corp.,145000,955.0,Public,(212) 842-5500,Hot,2020-10-28,6654,Platinum,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","1301 Avenue of the Americas 
+New York, NY 10019
+USA",4437,"#N/A","#N/A",UOS,"#N/A",Customer - Direct,Yes,http://www.uos.com,"#N/A"
+9c125b2b-a479-435a-90b9-e1d48e154dc0,CC213425,"#N/A",Yes,9.5E8,Paris,France,"#N/A","#N/A","#N/A",75251,"#N/A",2 Place Jussieu,Pending,"#N/A","#N/A","#N/A",(014) 427-4428,Construction,"#N/A","#N/A","#N/A",Pyramid Construction Inc.,2680,17.0,Public,(014) 427-4427,"#N/A",2020-10-28,9840,Silver,Paris,France,"#N/A","#N/A","#N/A",75251,"#N/A",2 Place Jussieu,4253,"#N/A","#N/A",PYR,"#N/A",Customer - Channel,Maybe,www.pyramid.com,"#N/A"
+ca421659-4e65-4c30-b99b-d675b9d251ee,CC634267,"#N/A",Yes,5.0E7,Lawrence,USA,"#N/A","#N/A","#N/A",66045,KS,1301 Hoch Drive,Pending,Low,"#N/A","#N/A",(785) 241-6201,Consulting,"#N/A","#N/A","#N/A",Dickenson plc,120,2.0,Private,(785) 241-6200,"#N/A",2020-10-28,7425,Bronze,Lawrence,USA,"#N/A","#N/A","#N/A",66045,KS,1301 Hoch Drive,6752,"#N/A","#N/A","#N/A","#N/A",Customer - Channel,No,dickenson-consulting.com,"#N/A"
+ecbf86db-1186-472f-a08d-1c001e171623,CD355120-B,"#N/A",Yes,"#N/A",Singapore,"#N/A","#N/A","#N/A","#N/A","#N/A",Singapore,"9 Tagore Lane
+Singapore, Singapore 787472
+Singapore",Pending,High,"#N/A","#N/A",(650) 450-8820,Energy,"#N/A","#N/A","#N/A","United Oil & Gas, Singapore",3000,6.0,Public,(650) 450-8810,"#N/A",2020-10-28,2457,Platinum,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","9 Tagore Lane
+Singapore, Singapore 787472
+Singapore",4437,"#N/A","#N/A",UOS,"#N/A",Customer - Direct,Maybe,http://www.uos.com,"#N/A"
