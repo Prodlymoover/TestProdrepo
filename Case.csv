@@ -1,3 +1,2 @@
 Guid,AccountId,Comments,ContactId,Description,IsEscalated,Origin,Priority,Reason,Status,Subject,SuppliedCompany,SuppliedEmail,SuppliedName,SuppliedPhone,Type
-f44b2433-c901-4d7b-b916-a3a288471090,435def0d-84c5-4ac5-80f9-8411beedb619,"#N/A",bbda0729-11b3-4030-ae6e-66f792619f46,"#N/A",false,Email,Medium,"#N/A",New,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
-f9e1b056-d0ad-4c7f-9342-5f28fa8b6d79,97c8b557-0cec-4e9f-b02c-26023086abe7,"#N/A",a6f68db4-879a-40f3-98f6-5e512b4b954a,"#N/A",false,Email,Medium,"#N/A",New,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+9310ca22-9465-4d14-a76e-cab56a7b153c,"#N/A","#N/A","#N/A","#N/A",false,"#N/A",Medium,"#N/A",New,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
